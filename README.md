@@ -1,16 +1,39 @@
-## Hi there 👋
+Hi# Hello, I'm Kamlesh! 👋 ![](https://komarev.com/ghpvc/?username=iamkamleshrangi)
 
-<!--
-**iamkamleshrangi/iamkamleshrangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Expert | Data Science and Engineering
 
-Here are some ideas to get you started:
+I am a seasoned Data Domain Expert specializing in advanced Natural Language Processing (NLP) and large language models (LLMs). My focus is on systematically collecting and analyzing data from multiple sources to help businesses make informed, strategic decisions. I collaborate with stakeholders and manage large-scale data engines, overseeing data processes from collection to distribution.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Key Expertise:
+Advanced NLP Techniques
+Large-Scale Data Engines
+Competitive & Product Intelligence
+Strategic Data-Driven Decision Making
+In my previous role as a Data Scientist at CubicTree Technology, I built scalable solutions for the Indian legal domain, using NLP to deliver critical insights and alerts to corporations, lawyers, and litigation teams.
+
+## 🛠️ Technologies & Tools
+- Python, AWS, GCP, Airflow,Sklearn, Numpy, Pandas
+- Depends on the project, can adapt quickly 
+
+## 🌱 Current Learning Goals
+
+- Applying LLMs with OpenAI, Anthropic, Bedrock, LLaMA, Mistral, etc.
+- Exploring new programming paradigms and languages
+- Mastering AI/ML
+- Exploring Data Structures and Algorithms (DSA)
+- Building scalable data engineering pipelines with GCP and AWS
+- Designing serverless infrastructure
+- Learning classification-based machine learning techniques
+
+## 📈 GitHub Stats
+
+![Kamlesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamkamleshrangi&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
+
+## 🔗 Links
+- **GitHub:** [iamkamleshrangi](https://github.com/iamkamleshrangi)
+- **Linkedin:** [iamkamleshrangi](https://www.linkedin.com/in/iamkamleshrangi/)
+
+
+## 📫 Get in touch
+
+- Email: iamkamleshrangi@gmail.com
