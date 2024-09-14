@@ -34,7 +34,7 @@ Key Expertise:
 - **Linkedin:** [iamkamleshrangi](https://www.linkedin.com/in/iamkamleshrangi/)
 
 
-## 📫 Get in touch
+## 📫 Get in touch  <a href="https://www.buymeacoffee.com/iamkamleshrangi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 - Email: iamkamleshrangi@gmail.com
-<a href="https://www.buymeacoffee.com/iamkamleshrangi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
