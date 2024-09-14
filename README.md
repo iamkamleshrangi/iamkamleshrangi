@@ -1,8 +1,8 @@
-Hi# Hello, I'm Kamlesh! 👋 ![](https://komarev.com/ghpvc/?username=iamkamleshrangi)
+## Hi Hello, I'm Kamlesh! 👋 ![](https://komarev.com/ghpvc/?username=iamkamleshrangi)
 
-## Data Expert | Data Science and Engineering
+## Data Science and Engineering
 
-I am a seasoned Data Domain Expert specializing in advanced Natural Language Processing (NLP) and large language models (LLMs). My focus is on systematically collecting and analyzing data from multiple sources to help businesses make informed, strategic decisions. I collaborate with stakeholders and manage large-scale data engines, overseeing data processes from collection to distribution.
+I am a seasoned Data Domain Expert specializing in advanced Natural Language Processing (NLP) and large language models (LLMs). I focus on systematically collecting and analyzing data from multiple sources to help businesses make informed, strategic decisions. I collaborate with stakeholders and manage large-scale data engines, overseeing data processes from collection to distribution.
 
 Key Expertise:
 - Advanced NLP Techniques
@@ -12,7 +12,7 @@ Key Expertise:
 - As a Data Scientist at CubicTree Technology, I built scalable solutions for the Indian legal domain, using NLP to deliver critical insights and alerts to corporations, lawyers, and litigation teams.
 
 ## 🛠️ Technologies & Tools
-- Python, AWS, GCP, Airflow,Sklearn, Numpy, Pandas
+- Python, AWS, GCP, Airflow, Sklearn, Numpy, Pandas, Monit, Elasticsearch, PostgreSQL, MongoDB, Serverless, RethinkDB
 - Depends on the project, can adapt quickly 
 
 ## 🌱 Current Learning Goals
@@ -33,8 +33,8 @@ Key Expertise:
 - **GitHub:** [iamkamleshrangi](https://github.com/iamkamleshrangi)
 - **Linkedin:** [iamkamleshrangi](https://www.linkedin.com/in/iamkamleshrangi/)
 
+  <a href="https://www.buymeacoffee.com/iamkamleshrangi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-## 📫 Get in touch  <a href="https://www.buymeacoffee.com/iamkamleshrangi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
+## 📫 Get in touch
 - Email: iamkamleshrangi@gmail.com
 
