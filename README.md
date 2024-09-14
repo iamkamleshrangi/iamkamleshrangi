@@ -37,6 +37,4 @@ Key Expertise:
 ## 📫 Get in touch
 
 - Email: iamkamleshrangi@gmail.com
-
-## Coffee To Code
 <a href="https://www.buymeacoffee.com/iamkamleshrangi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
