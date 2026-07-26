@@ -1,6 +1,6 @@
 ## Hi Hello, I'm Kamlesh! 👋 ![](https://komarev.com/ghpvc/?username=iamkamleshrangi)
 
-## AI Engineer
+## AI Magager | GCC Pune 
 
 I am a seasoned Data Domain Expert specialising in advanced Natural Language Processing (NLP) and large language models (LLMs). I focus on systematically collecting and analysing data from multiple sources to help businesses make informed, strategic decisions. I collaborate with stakeholders and manage large-scale data engines, overseeing data processes from collection to distribution.
 
